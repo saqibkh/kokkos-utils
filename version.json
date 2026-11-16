@@ -16,8 +16,8 @@
             "value" : "1.18.0"
         },
         "kokkos" : {
-            "value" : "5.2.99",
-            "sha"   : "95535f8e47586112c1363ae0b1537b5368acd784"
+            "value" : "5.3.99",
+            "sha"   : "e9e05d0ec9fd9ed215d761c34bc0dc42ee4248c1"
         }
     }
 }
